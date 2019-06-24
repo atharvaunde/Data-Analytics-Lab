@@ -1,8 +1,8 @@
-# Data-Analytics-Lab
+# Data Analytics Lab
 <h2>LAB 1. IRIS Dataset Analysis</h2>
 <p>
  Download the Iris flower dataset or any other dataset into a DataFrame. (eg
-https://archive.ics.uci.edu/ml/datasets/Iris ) Use Python/R and Perform following –<br>
+https://archive.ics.uci.edu/ml/datasets/Iris ) <br>Use Python/R and Perform following –<br>
 <li>How many features are there and what are their types (e.g., numeric, nominal)?</li>
 <li>Compute and display summary statistics for each feature available in the dataset.</li>
 (eg. minimum value, maximum value, mean, range, standard deviation, variance
