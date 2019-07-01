@@ -15,11 +15,13 @@ print(df.shape)
 print(df.describe()) #gives mean, min, max of feaures
 #print(df.describe(include = 'all')) #gives mean, min, max of ALL features
 d=df.drop(['Species'],axis=1)
+
 d.hist()
 plt.show()
-plt.scatter(Sepal-length, Sepal-width, Petal-length, Petal-width, Species)
+plt.scatter('Sepal-length', 'Sepal-width', 'Petal-length', 'Petal-width', 'Species') #drawing the scattered graph
 plt.title('LAB 1')
-plt.xlabel('x')
-plt.ylabel('y')
+plt.xlabel('x') #defining the X axis for graph
+plt.ylabel('y') #defining the Y axis for graph
 plt.show()
-
+plt.scatter (df ['Sepal-length'],df['Sepal-width'])
+plt.show()
