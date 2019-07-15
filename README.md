@@ -13,7 +13,7 @@ feature distributions. Plot each histogram.</li>
 combined into a single plot. Compare distributions and identify outliers.</li>
 </p>
 
-<h2>LAB 2. Pima Indians Diabetes Dataset Analysis <u><b>W.I.P</b></ul></h2>
+<h2>LAB 2. Pima Indians Diabetes Dataset Analysis <u>(<b>W.I.P</b>)</ul></h2>
 <p>
  Download Pima Indians Diabetes dataset. Use Naive Bayes‟ Algorithm for classification.<br>
  <li>Load the data from CSV file and split it into training and test datasets.</li>
